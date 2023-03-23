@@ -113,7 +113,7 @@
         }
     });
     
-    var countDownDate = new Date("Oct 16, 2023 00:00:00").getTime();
+    var countDownDate = new Date("Sep 29, 2023 10:30:00").getTime();
     var x = setInterval(function(){
         var now = new Date().getTime();
         var distance =  countDownDate - now;
