@@ -9764,3 +9764,16 @@ a.text-dark:hover, a.text-dark:focus {
 #logo {
   background-image: url(..img/logo1.ico);
 }
+
+
+.launch-time{
+  display: flex;
+}
+.launch-time div{
+  flex-basis: 100px;
+}
+
+.launch-time div p{
+  font-size: 60px;
+  margin-bottom: -14px;
+}
